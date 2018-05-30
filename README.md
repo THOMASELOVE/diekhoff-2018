@@ -18,7 +18,7 @@ I would like to sincerely thank every single person who helped me achieve this r
 - Christine Lee and her many colleagues who evaluated the nominations in addition to their productive work as graduate students.
 - The past and present staff, faculty and administration of Case Western Reserve University, its School of Medicine, its Weatherhead School of Management and its Graduate School of Arts & Sciences.
 - The teaching assistants I've had over the years that have made it possible for me to aim high, especially Claudia Cabrera, David Ngendahimana, Raj Sarabu, Mustafa Ascha, Terry Cui, Omar Alaber, Bob Winkelman, Rosie Conic, Noemi Hall and Theresa Roeder.
-- Past and present mentors, friends and colleagues in education, including Randy Cebul, David Hildebrand, Mendel Singer, Jonathan Haynes, Doug Einstadter, Chris Burant, Shirley Moore, Scott Williams, Farren Briggs, Danny Solow, Kamlesh Mathur, Peter Ritchken, Fred Collopy, Julia Grant, Betty Vandenbosch, Paul Rosenbaum, Abba Krieger, Donald Morrison, Robert Stine and Bruce Vogeli.
+- Past and present mentors, friends and colleagues in education, including Randy Cebul, David Hildebrand, Mendel Singer, Jonathan Haynes, Doug Einstadter, Chris Burant, Shirley Moore, Scott Williams, Farren Briggs, Daniel Tisch, Apostolos Burnetas, George Vairaktarakis, Danny Solow, Kamlesh Mathur, Peter Ritchken, Fred Collopy, Julia Grant, Betty Vandenbosch, Paul Rosenbaum, Abba Krieger, Donald Morrison, Robert Stine and Bruce Vogeli.
 
 ![](DiekhoffAnnouncement2018.PNG)
 
