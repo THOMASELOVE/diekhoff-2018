@@ -1,13 +1,25 @@
 # Diekhoff 2018
 
-Dr. Thomas E. Love was a winner of the 2017-2018 Diekhoff Award
+![](DiekhoffArticle_Daily_2018-05-09_1.PNG)
 
-A student of mine (Ryan Honomichl) was good enough to record Provost Bud Baeslack and the many other people who busted into my class on April 6, 2018 to announce that I had won the award. 
+I received the 2018 John S. Diekhoff Award for Graduate Teaching at CWRU.
 
-A seven-minute audio clip from that recording is here.
+- **Article** The CWRU Daily produced a [very kind article about me and this award](http://thedaily.case.edu/incredible-educator-medicines-thomas-love-wins-diekhoff-award-graduate-teaching/), and a [PDF of the article is here](https://github.com/THOMASELOVE/diekhoff-2018/blob/master/Diekhoff_text_TheDaily_2018-05-09.pdf)
+- **Audio Recording** A student of mine (Ryan Honomichl) was good enough to record Provost Bud Baeslack and the many other people who busted into my class on April 6, 2018 to announce that I had won the award. A [seven-minute audio clip from that recording is here](https://raw.githubusercontent.com/THOMASELOVE/diekhoff-2018/master/Surprised_Diekhoff_Award_TEL_432_2018-04-06.mp3) if you want to hear me overwhelmed and tongue-tied.
 
-The John S. Diekhoff Award is presented to four full-time faculty members who make exemplary contributions to the education and development of graduate students at Case Western Reserve University. The award was created in honor of John Diekhoff, who served in several capacities during his tenure here. From 1956 to 1970, he served as professor of English, chair of the Department of English, dean of Cleveland College, acting dean of the School of Graduate Studies and vice provost of the university.
+## Thank You
 
-In 1978, the university created the award to recognize outstanding contributions to the education of graduate students through advising, mentoring, and classroom teaching. Initially, the award was presented to two full-time faculty members who serve as outstanding mentors to graduate students, connect them with experts in their discipline, engage them academically, and actively promote their professional development. In 2009, the award was expanded to recognize two full-time faculty members who excel in the teaching of graduate students.
+I would like to sincerely thank every single person who helped me achieve this recognition (and there are thousands of people to thank) and I would also like to thank everyone who reads this page. Some of the many people that I am especially grateful to are listed below.
 
-The award is sponsored by the School of Graduate Studies. A committee of graduate students reviews the nominations and recommends the winners.
+- My parents, who were the best possible parents for me.
+- My family and friends, close and near, who put up with me, and who muster enthusiasm for each of my "projects".
+- Every student I've ever had, at CWRU, and at the University of Pennsylvania before that.
+- R. Henry Olaisen, Frances Wang and the many students who were involved in my being considered for this award.
+- Christine Lee and her many colleagues who evaluated the nominations in addition to their productive work as graduate students.
+- The past and present staff, faculty and administration of Case Western Reserve University, its School of Medicine, its Weatherhead School of Management and its Graduate School of Arts & Sciences.
+- The teaching assistants I've had over the years that have made it possible for me to aim high, especially Claudia Cabrera, David Ngendahimana, Raj Sarabu, Mustafa Ascha, Terry Cui, Omar Alaber, Bob Winkelman, Rosie Conic, Noemi Hall and Theresa Roeder.
+- Past and present mentors, friends and colleagues in education, including Randy Cebul, David Hildebrand, Mendel Singer, Jonathan Haynes, Doug Einstadter, Chris Burant, Shirley Moore, Scott Williams, Farren Briggs, Danny Solow, Kamlesh Mathur, Peter Ritchken, Fred Collopy, Julia Grant, Betty Vandenbosch, Paul Rosenbaum, Abba Krieger, Donald Morrison, Robert Stine and Bruce Vogeli.
+
+![](DiekhoffAnnouncement2018.PNG)
+
+
