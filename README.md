@@ -6,6 +6,7 @@ I received the 2018 John S. Diekhoff Award for Graduate Teaching at CWRU.
 
 - **Article** The CWRU Daily produced a [very kind article about me and this award](http://thedaily.case.edu/incredible-educator-medicines-thomas-love-wins-diekhoff-award-graduate-teaching/), and a [PDF of the article is here](https://github.com/THOMASELOVE/diekhoff-2018/blob/master/Diekhoff_text_TheDaily_2018-05-09.pdf)
 - **Audio Recording** A student of mine (Ryan Honomichl) was good enough to record Provost Bud Baeslack and the many other people who busted into my class on April 6, 2018 to announce that I had won the award. A [seven-minute audio clip from that recording is here](https://raw.githubusercontent.com/THOMASELOVE/diekhoff-2018/master/Surprised_Diekhoff_Award_TEL_432_2018-04-06.mp3) if you want to hear me overwhelmed and tongue-tied.
+- **YouTube Video** of CWRU Graduate Studies Diploma Ceremony, where I don't say anything, but receive the actual Award about 20 minutes in. You can also see me shambling up to the front at the start of the video. It is at https://www.youtube.com/watch?v=9xs4kEINdIQ and probably not worth the effort.
 
 ## Thank You
 
